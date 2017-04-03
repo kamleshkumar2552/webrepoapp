@@ -14,3 +14,4 @@ After that, run the app using Django manage.py.
 
 Access the homepage on `http://localhost:8000`
 # pythondjangoproj
+# webrepoapp
